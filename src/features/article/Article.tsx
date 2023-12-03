@@ -1,0 +1,1 @@
+import ArticleContainer from './ArticleContainer'const Article = () => {  return (      <div>          <ArticleContainer title="Article Title" userName="User's Name"/>      </div>  )}export default Article
