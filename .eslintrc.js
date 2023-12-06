@@ -1,7 +1,7 @@
 module.exports = {
   env: {
     browser: true,
-    es2021: true
+    es6: true
   },
   extends: [
     'standard-with-typescript',
@@ -43,11 +43,12 @@ module.exports = {
     'react/jsx-indent': [2, 4],
     'react/jsx-indent-props': [2, 4],
     quotes: ['error', 'single'],
-    'no-unused-vars': 'warn',
     'react/jsx-uses-react': 'error',
     'eol-last': ['error', 'never'],
     'react/require-default-props': 'off',
     'react/jsx-props-no-spreading': 'warn',
-    'react/function-component-definition': 'off'
+    'react/function-component-definition': 'off',
+    'no-return-await': 'off',
+    'no-unused-vars': 'off'
   }
 }

@@ -1,4 +1,4 @@
-import Article from './features/article/Article'
+import Article from './features/article/components/Article'
 
 function App (): JSX.Element {
   return (
