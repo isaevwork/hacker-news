@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe4c3dac-6cae-4389-a286-e693dbdffb26" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/utils/utils.ts" afterDir="false" />
+    <list default="true" id="fe4c3dac-6cae-4389-a286-e693dbdffb26" name="Changes" comment="[hacker-news] - idea fix">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/article/components/Article.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/article/components/Article.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/features/article/components/ArticleContainer.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/article/components/ArticleContainer.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/article/components/ArticleContainer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/article/components/ArticleContainer.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +23,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
     <option name="recentBranches">
       <RecentBranches>
         <option name="branchesForRepo">
@@ -71,7 +70,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;added-api&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;js.linters.configure.manually.selectedeslint&quot;: &quot;true&quot;,
     &quot;jsx.switch.disabled&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -129,6 +128,7 @@
       <workItem from="1701507002762" duration="22487000" />
       <workItem from="1701644229740" duration="4499000" />
       <workItem from="1701817967791" duration="17986000" />
+      <workItem from="1702156744320" duration="1214000" />
     </task>
     <servers />
   </component>
