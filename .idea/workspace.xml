@@ -5,17 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fe4c3dac-6cae-4389-a286-e693dbdffb26" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/utils.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/article/Article.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/article/components/Article.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/article/ArticleContainer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/article/components/ArticleContainer.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/article/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/article/components/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/article/components/Article.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/article/components/Article.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/article/components/ArticleContainer.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/article/components/ArticleContainer.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/article/components/ArticleContainer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/article/components/ArticleContainer.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +17,37 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="added-api" />
+                    <option name="lastUsedInstant" value="1702143378" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1702143377" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -47,7 +71,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "added-api",
     "js.linters.configure.manually.selectedeslint": "true",
     "jsx.switch.disabled": "true",
     "node.js.detected.package.eslint": "true",
@@ -104,7 +128,7 @@
       <workItem from="1701471069710" duration="142000" />
       <workItem from="1701507002762" duration="22487000" />
       <workItem from="1701644229740" duration="4499000" />
-      <workItem from="1701817967791" duration="9570000" />
+      <workItem from="1701817967791" duration="17986000" />
     </task>
     <servers />
   </component>
