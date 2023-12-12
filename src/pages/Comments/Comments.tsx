@@ -1,0 +1,1 @@
+import React from 'react'const Comments = () => {  return (      <div>          Hellos      </div>  )}export default Comments

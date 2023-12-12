@@ -1,0 +1,1 @@
+import React from 'react'import Article from '../../features/article/components/Article'const ArticlesList = () => {  return (      <Article />  )}export default ArticlesList
