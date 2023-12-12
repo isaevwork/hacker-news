@@ -1,1 +1,1 @@
-.articleWrapper {    padding: 10px;    border-radius: 10px;}
+.articleWrapper:not(:last-child) {    padding: 10px;}.articleWrapper {    border-radius: 10px;}
