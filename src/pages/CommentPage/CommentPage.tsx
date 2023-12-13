@@ -1,0 +1,1 @@
+import React from 'react'import { PageWrapperHeight } from '../../components'import { Comment } from '../../features/comments'const CommentPage = () => {  return (      <PageWrapperHeight>          <Comment />      </PageWrapperHeight>  )}export default CommentPage

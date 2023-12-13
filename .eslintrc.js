@@ -49,6 +49,8 @@ module.exports = {
     'react/jsx-props-no-spreading': 'warn',
     'react/function-component-definition': 'off',
     'no-return-await': 'off',
-    'no-unused-vars': 'off'
+    'no-unused-vars': 'off',
+    'no-trailing-spaces': 'off',
+    'multiline-ternary': ['error', 'always-multiline']
   }
 }
