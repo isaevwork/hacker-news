@@ -51,6 +51,8 @@ module.exports = {
     'no-return-await': 'off',
     'no-unused-vars': 'off',
     'no-trailing-spaces': 'off',
-    'multiline-ternary': ['error', 'always-multiline']
+    'multiline-ternary': ['error', 'always-multiline'],
+    '@typescript-eslint/strict-boolean-expressions': 'off' // правило предупреждает, использование выражения, которое может быть неявно преобразовано в логическое значение. Например, выражение if (someVariable) будет приведено к true, если someVariable не равно false, undefined, null, 0, NaN, или ''.
+
   }
 }
