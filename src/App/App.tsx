@@ -5,7 +5,7 @@ import './styles/styles.css'
 
 function App (): JSX.Element {
   return (
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
           <div className="app">
               <Routes>
                   <Route path='/' element={<ArticlesList />} />
