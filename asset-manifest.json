@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/liam-iv/hacker-news/static/css/main.3caa6768.css",
+    "main.js": "/liam-iv/hacker-news/static/js/main.59fedf4d.js",
+    "index.html": "/liam-iv/hacker-news/index.html",
+    "main.3caa6768.css.map": "/liam-iv/hacker-news/static/css/main.3caa6768.css.map",
+    "main.59fedf4d.js.map": "/liam-iv/hacker-news/static/js/main.59fedf4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3caa6768.css",
+    "static/js/main.59fedf4d.js"
+  ]
+}
