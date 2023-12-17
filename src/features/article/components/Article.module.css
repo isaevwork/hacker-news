@@ -1,1 +1,1 @@
-.articleWrapper:not(:last-child) {    padding: 10px;}.articleWrapper {    border-radius: 10px;    font-size: 14px;    padding: 30px;}
+.articleWrapper:not(:last-child) {    padding: 10px;}.startTitle {    font-size: 24px;    font-family: Arial, sans-serif;    padding: 0 30px;}.articleWrapper {    padding: 8px 55px;    font-size: 20px;    background-color: white;    border-radius: 3px;    color: gray;    margin-bottom: 30px;}
